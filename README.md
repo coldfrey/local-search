@@ -43,7 +43,7 @@ python main.py
 This will start the Flask server on http://127.0.0.1:5000/.
 
 2. Open the Frontend
-Open your web browser and navigate to:
+Open your web browser
 
 
 Adding New Notes
