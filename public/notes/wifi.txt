@@ -1,0 +1,5 @@
+Wi-Fi Passwords
+
+Home: “sunnybeach2024”
+Office: “password1234”
+Coffee Shop: “freejava2024”
