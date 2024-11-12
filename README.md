@@ -37,9 +37,9 @@ Running the Application
 1. Start the Flask Backend
 Run the main application script:
 
-bash
-Copy code
+``` bash
 python main.py
+```
 This will start the Flask server on http://127.0.0.1:5000/.
 
 2. Open the Frontend
