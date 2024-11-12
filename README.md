@@ -15,7 +15,6 @@ Installation
 1. Clone the Repository
 
 ```bash
-Copy code
 git clone https://github.com/coldfrey/local-search.git
 cd local-search
 ```
@@ -23,7 +22,6 @@ cd local-search
 Install the required packages using pip:
 
 ``` bash
-Copy code
 pip install -r requirements.txt
 ```
 
