@@ -1,11 +1,10 @@
-Real-Time Embedding Search
+# Real-Time Embedding Search
 This repository provides a simple web application that allows you to perform real-time searches over a collection of notes using sentence embeddings. The application features a Flask backend and a responsive HTML frontend where you can search for notes, view a list of all notes, and click on any note to see its content.
 
 Features
 Real-Time Search: Type into the search box to find the most similar note based on semantic similarity.
 Notes List: View all your notes listed on the right-hand side of the screen.
 View Note Content: Click on any note title to display its content.
-Add New Notes: Easily add new notes to your collection.
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
